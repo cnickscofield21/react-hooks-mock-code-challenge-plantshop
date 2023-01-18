@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Not a Pothos",
+      "image": "./images/pothos.jpg",
+      "price": "17.76",
+      "id": 8
     }
   ]
 }
